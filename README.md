@@ -1,2 +1,2 @@
-# NPM
- 
+
+# Typescript module
